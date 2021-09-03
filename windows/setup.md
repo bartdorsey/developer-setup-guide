@@ -38,8 +38,8 @@ If you don't see this, check with your computer manufacturer to see if it's avai
 
 Often you can enable this in the setup screen of your computer (Often called the BIOS). Sometimes a prompt appears when you first turn on your computer telling which key to hit (often F2 or Del) to enter the BIOS Setup.  Once in the Setup screen look for something related to Virtualization and make sure it's enabled.
 
-Intel Processors often call this feature VT-X.
-AMD Processors often call this feature SVM or AMD-V.
+- Intel Processors often call this feature VT-X.
+- AMD Processors often call this feature SVM or AMD-V.
 
 This varies from manufacturer to manufacturer so unfortunately we cannot give you exact instructions on how to enable it.
 
