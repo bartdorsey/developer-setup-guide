@@ -118,5 +118,5 @@ You've now got all the software installed you need to be a real web developer!
 Once you've got this completed you can move on an read about [extra resources]
 
 [Visual Studio Code]:https://code.visualstudio.com/
-[extra-resources]:extra-resources.md
+[extra resources]:extra-resources.md
 [starship]:https://starship.rs
