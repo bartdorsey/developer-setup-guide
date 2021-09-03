@@ -2,7 +2,7 @@
 
 While WSL includes an Ubuntu terminal, it is not very user friendly when it comes to copy and pasting stuff into the terminal.  Luckily for us Microsoft has a new Windows Terminal app that is much nicer to use. It also supports both Powershell and WSL.
 
-You can simply [download and install] it from the Microsoft Store.
+You can simply download and install [Windows Terminal] from the Microsoft Store.
 
 Then search for it in your Windows start menu, and pin it to your task bar, we
 will be using it a lot.
@@ -48,3 +48,4 @@ Once you've read that, move on to [Installing Ansible]
 
 [Installing Ansible]:ansible-setup.md
 [Unix Terminology]:resources/unix-terminology.md
+[Windows Terminal]:https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
