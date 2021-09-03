@@ -61,3 +61,14 @@ Once you've got this done, move on to [Running the Ansible Playbook]
 
 [Ansible]:https://ansible.com
 [Running the Ansible Playbook]:ansible-playbook-setup.md
+
+[Running the Ansible Playbook]:../common/ansible-playbook-setup.md
+[Ansible]:https://ansible.com
+[zsh]:https://www.zsh.org/
+[nvm]:https://github.com/nvm-sh/nvm
+[Node.JS]:https://nodejs.org/en/
+[htop]:https://htop.dev/
+[pgcli]:https://www.pgcli.com/
+[starship]:https://starship.rs
+[PostgreSQL]:https://www.postgresql.org/
+[zip and unzip]:http://infozip.sourceforge.net/
