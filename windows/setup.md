@@ -67,3 +67,4 @@ Once you've checked this stuff, it's time to move on to [Installing WSL and Ubun
 [Virtual Machines]:https://en.wikipedia.org/wiki/Virtual_machine
 [Inception]:https://www.imdb.com/title/tt1375666/
 [Hardware Virtualization]:https://en.wikipedia.org/wiki/Hardware_virtualization
+[Ubuntu]:https://ubuntu.com
