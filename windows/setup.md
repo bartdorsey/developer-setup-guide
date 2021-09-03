@@ -61,6 +61,9 @@ You should see the following:
 latest version.  Head to the Windows Update section of the Settings app and
 update to the latest version of Windows 10.
 
+> Note: If for whatever reason you can't upgrade Windows to a version that includes
+> the wsl command, you can try to use Microsoft's [Manual Install instructions].
+
 Once you've checked this stuff, it's time to move on to [Installing WSL and Ubuntu Linux]
 
 [Installing WSL and Ubuntu Linux]:wsl-ubuntu-setup.md
@@ -69,3 +72,4 @@ Once you've checked this stuff, it's time to move on to [Installing WSL and Ubun
 [Inception]:https://www.imdb.com/title/tt1375666/
 [Hardware Virtualization]:https://en.wikipedia.org/wiki/Hardware_virtualization
 [Ubuntu]:https://ubuntu.com
+[Manual Install Instructions]:https://docs.microsoft.com/en-us/windows/wsl/install-win10#manual-installation-steps
