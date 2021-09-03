@@ -6,7 +6,7 @@ Windows Powershell is the command line interface for Windows.
 
 so go ahead and right click on he start menu, and choose "Windows Powershell (Administrator)" from the options
 
-![Start Menu Right Click Menu](Start-Menu-Right-Click.png)
+![Start Menu Right Click Menu](images/Start-Menu-Right-Click.png)
 
 ## Windows Services for Linux (WSL)
 
