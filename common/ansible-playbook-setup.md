@@ -70,6 +70,8 @@ git_email: 'change@changeme.com'
 
 Chane the user to your full name, and the email to your email address.
 
+Make sure you keep the single quote marks around the name and email address!
+
 Then look at the bottom of nano, you'll see there's a bunch of keyboard shortcuts.
 
 The `^` character means the control key, so use `^X` (Control-X) to exit.
