@@ -64,5 +64,5 @@ update to the latest version of Windows 10.
 Once you've checked this stuff, it's time to move on to [Installing WSL and Ubuntu Linux]
 
 [Installing WSL and Ubuntu Linux]:wsl-ubuntu-setup.md
-
+[Virtual Machines]:https://en.wikipedia.org/wiki/Virtual_machine
 [Hardware Virtualization]:https://en.wikipedia.org/wiki/Hardware_virtualization
