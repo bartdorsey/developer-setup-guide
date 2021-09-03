@@ -8,12 +8,12 @@ so go ahead and right click on he start menu, and choose "Windows Powershell (Ad
 
 ![Start Menu Right Click Menu](images/Start-Menu-Right-Click.png)
 
-## Windows Services for Linux (WSL)
+## [Windows Subsystem for Linux] (WSL)
 
 We aren't going to be doing Windows development though. What we need is a Unix
 or Linux system. This is because most web servers run some form of Linux.
 
-Luckily Microsoft provides a piece of software called "Windows Services for Linux" (WSL).
+Luckily Microsoft provides a piece of software called "[Windows Subsystem for Linux]" (WSL).
 
 This can run Linux [Virtual Machines] on your computer.
 
@@ -64,6 +64,7 @@ update to the latest version of Windows 10.
 Once you've checked this stuff, it's time to move on to [Installing WSL and Ubuntu Linux]
 
 [Installing WSL and Ubuntu Linux]:wsl-ubuntu-setup.md
+[Windows Subsystem for Linux]:https://docs.microsoft.com/en-us/windows/wsl/about
 [Virtual Machines]:https://en.wikipedia.org/wiki/Virtual_machine
 [Inception]:https://www.imdb.com/title/tt1375666/
 [Hardware Virtualization]:https://en.wikipedia.org/wiki/Hardware_virtualization
