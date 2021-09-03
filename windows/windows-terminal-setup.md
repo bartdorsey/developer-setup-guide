@@ -49,4 +49,4 @@ Once you've read that, move on to [Installing Windows Apps]
 [Installing Ansible]:ansible-setup.md
 [Unix Terminology]:../resources/unix-terminology.md
 [Windows Terminal]:https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
-[Installing Windows GUI Apps]:windows-app-setup.md
+[Installing Windows Apps]:windows-app-setup.md
