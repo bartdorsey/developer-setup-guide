@@ -15,7 +15,7 @@ At the shell prompt type the following command.
 git clone https://github.com/bartdorsey/developer-playbook.git
 ```
 
-Once this finished, there will be a new folder called "developer-playbook" created
+Once this is finished, there will be a new folder called "developer-playbook" created
 in your home directory.
 
 type `ls -l` and you should see this folder in the list
@@ -115,5 +115,6 @@ You've now got all the software installed you need to be a real web developer!
 
 Once you've got this completed you can move on an read about [extra resources]
 
+[Visual Studio Code]:https://code.visualstudio.com/
 [extra-resources]:extra-resources.md
 [starship]:https://starship.rs
