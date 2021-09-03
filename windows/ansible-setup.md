@@ -60,8 +60,6 @@ sudo apt install -y ansible
 Once you've got this done, move on to [Running the Ansible Playbook]
 
 [Ansible]:https://ansible.com
-[Running the Ansible Playbook]:ansible-playbook-setup.md
-
 [Running the Ansible Playbook]:../common/ansible-playbook-setup.md
 [Ansible]:https://ansible.com
 [zsh]:https://www.zsh.org/
