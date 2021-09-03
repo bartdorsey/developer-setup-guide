@@ -34,7 +34,7 @@ You can check if you have virtualization enabled by running Windows Task Manager
 
 ![task manager](images/task-manager-virtualization-enabled.png)
 
-If you don't see this, check with your computer manufacturer to see if it's available to be turned on on your model of computer. 
+If you don't see this, check with your computer manufacturer to see if it's available to be turned on on your model of computer.
 
 Often you can enable this in the setup screen of your computer (Often called the BIOS). Sometimes a prompt appears when you first turn on your computer telling which key to hit (often F2 or Del) to enter the BIOS Setup.  Once in the Setup screen look for something related to Virtualization and make sure it's enabled.
 
@@ -65,4 +65,5 @@ Once you've checked this stuff, it's time to move on to [Installing WSL and Ubun
 
 [Installing WSL and Ubuntu Linux]:wsl-ubuntu-setup.md
 [Virtual Machines]:https://en.wikipedia.org/wiki/Virtual_machine
+[Inception]:https://www.imdb.com/title/tt1375666/
 [Hardware Virtualization]:https://en.wikipedia.org/wiki/Hardware_virtualization
