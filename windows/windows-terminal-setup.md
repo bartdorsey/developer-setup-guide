@@ -44,8 +44,9 @@ But you should see the `~` (tilde) in your prompt showing you are currently in y
 
 You may want to read about certain [Unix Terminology] that you will need to be familar with as a developer before continuing.
 
-Once you've read that, move on to [Installing Ansible]
+Once you've read that, move on to [Installing Windows Apps]
 
 [Installing Ansible]:ansible-setup.md
 [Unix Terminology]:../resources/unix-terminology.md
 [Windows Terminal]:https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
+[Installing Windows GUI Apps]:windows-app-setup.md
