@@ -13,6 +13,9 @@ Now copy this command to your clipboard and paste it into the terminal and hit e
 
 Homebrew will then start cloning it's files to your hard drive. Once it's installed you should get your shell prompt back so you can type more commands.
 
+Homebrew will prompt you for your password, just type in your macOS password here and press enter.
+(The terminal doesn't print out anything when you type a password in, but is it taking your password nonetheless)
+
 Once this is finished, move on to [Installing Ansible]
 
 [Installing Ansible]:ansible-setup.md
