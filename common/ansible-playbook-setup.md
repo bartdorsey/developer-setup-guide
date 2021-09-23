@@ -6,6 +6,18 @@ An ansible playbook is a set of instructions for setting up a computer system.
 
 We will be using ansible-pull to pull down the playbook and excute it on our computer.
 
+## Installing ansible collections
+
+The playbook depends on a few ansible collections to do it's magic. So we need to
+install those first.
+
+Run the following commands one after the other to install the collections.
+
+```shell
+ansible-galaxy collection install community.postgresql
+ansible-galaxy collection install community.general
+```
+
 ## Running the playbook
 
 Now we can run the following command to run the ansible playbook.
