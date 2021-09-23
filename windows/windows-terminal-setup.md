@@ -40,6 +40,23 @@ But you should see the `~` (tilde) in your prompt showing you are currently in y
 
 ![Ubuntu-Windows-Terminal](images/Ubuntu-Windows-Terminal.png)
 
+## Installing a nerd font (Optional)
+
+This is **optional**, but to get the most out of your terminal prompt, you may want to install
+a Nerd font.  These fonts are patched to give extra characters used by the prompt we will
+use in class.
+
+[Download a Nerd Font]
+
+We recommend [Fira Code Nerd] but feel free to install whichever font you like.
+
+To install these, download the zip file, extract it, and double click on the `.ttf`
+files, and install them. You'll want to choose the ones with "Windows Compatible"
+in the name.
+
+Once you've changed this, you can change the font you use in Windows Terminal
+in the Apperance Tab of your Ubuntu profile.
+
 ## [Unix Terminology]
 
 You may want to read about certain [Unix Terminology] that you will need to be familar with as a developer before continuing.
@@ -50,3 +67,5 @@ Once you've read that, move on to [Installing Windows Apps]
 [Unix Terminology]:../resources/unix-terminology.md
 [Windows Terminal]:https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
 [Installing Windows Apps]:windows-app-setup.md
+[Download a Nerd Font]:https://www.nerdfonts.com/font-downloads
+[Fira Code Nerd]:https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/FiraCode.zip
