@@ -11,11 +11,10 @@ We will be using ansible-pull to pull down the playbook and excute it on our com
 The playbook depends on a few ansible collections to do it's magic. So we need to
 install those first.
 
-Run the following commands one after the other to install the collections.
+Run the following command to install the collections.
 
 ```shell
-ansible-galaxy collection install community.postgresql
-ansible-galaxy collection install community.general
+ansible-galaxy collection install community.postgresql community.general
 ```
 
 ## Running the playbook
