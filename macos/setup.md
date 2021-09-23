@@ -35,7 +35,7 @@ Once you've read about all the Unix terminology and have the terminal app open, 
 
 [shell]:https://en.wikipedia.org/wiki/Shell_%28computing%29
 [Ansible]:https://ansible.com
-[Unix Terminology]:resources/unix-terminology.md
+[Unix Terminology]:../resources/unix-terminology.md
 [Bourne Again Shell]:https://www.gnu.org/software/bash/
 [bash]:https://www.gnu.org/software/bash/
 [Z Shell]:https://www.zsh.org/
