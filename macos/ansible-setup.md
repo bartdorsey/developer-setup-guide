@@ -31,12 +31,12 @@ And running as a background program:
 
 So first thing we should do is to install ansible.
 
-We use python's `pip3` tool to do this, since ansible is written in python.
+We are going to use homebrew to install ansible.
 
 Run this command at the shell prompt.
 
 ```sh
-pip3 install ansible
+brew install ansible
 ```
 
 Once it has successfully installed, your shell prompt should reappear and you can move on to [Running the Ansible Playbook]
