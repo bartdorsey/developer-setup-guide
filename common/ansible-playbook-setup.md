@@ -49,6 +49,9 @@ and it can show you more information than just the folder you are in. (things li
 
 ![starship prompt](images/starship-prompt.png)
 
+> Note: Ubuntu Desktop Linux users, it will be necessary to actually log out of the Ubuntu desktop
+> and back in to make everything work correctly.
+
 ## Congratulations
 
 You've now got all the software installed you need to be a real web developer!
