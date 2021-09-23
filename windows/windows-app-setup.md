@@ -27,4 +27,4 @@ Once you've got these installed, move on to [Installing Ansible]
 [edge]: https://www.microsoft.com/en-us/edge
 [safari]: https://www.apple.com/safari/
 
-[Installing Ansible]:ansible-setup.md
+[Installing Ansible]:(../ubuntu/ansible-setup.md)
