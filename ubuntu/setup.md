@@ -63,6 +63,24 @@ see a series of links, you'll want the one that ends in `amd64.deb`
 
 Download it and install it and add it to your favorites.
 
+## Git
+
+Now we need to install a command line utility called `git`.
+
+Open your Ubuntu Terminal and type
+
+```shell
+sudo apt update
+```
+
+and press enter. (you may be prompted for your password)
+
+When that finishes type this command and hit enter.
+
+```shell
+sudo apt install git
+```
+
 ## Next steps
 
 Once you've installed this, move on to [Installing Ansible]
