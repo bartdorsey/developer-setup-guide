@@ -17,4 +17,3 @@ Once this is finished, move on to [Installing Ansible]
 
 [Installing Ansible]:ansible-setup.md
 [Homebrew]:https://brew.sh
-
