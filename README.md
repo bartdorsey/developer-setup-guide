@@ -7,6 +7,7 @@ There are two guides depending on operating system:
 
 - [Windows](windows/setup.md)
 - [macOS](macos/setup.md)
+- [Ubuntu](ubuntu/setup.md)
 
 ## IMPORTANT! A note about errors
 

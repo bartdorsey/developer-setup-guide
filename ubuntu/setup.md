@@ -1,10 +1,10 @@
 # Ubuntu Developer Setup Guide
 
-This guide supports Ubuntu version 20.04. Some of these steps might be identical in other Ubuntu versions, but it is highly recommended you have this version. See your instructor if you have a different version.
+This guide supports Ubuntu version 20.04 LTS. Some of these steps might be identical in other Ubuntu versions, but it is highly recommended you have this version. See your instructor if you have a different version.
 
 ## The Ubuntu Terminal
 
-We will be using a command line interface for most of this installation.
+We will be using a command line interface for a lot of our development tasks.
 
 So it's a good idea to launch the Ubuntu Terminal and pin it to your favorites in your dock for easy access.
 
@@ -12,7 +12,7 @@ Start by clicking the application menu in the bottom left corner of the screen a
 
 ![Application Menu](images/ubuntu-application-menu.png)
 
-You can right click on the terminal icon and choose Add to Favorites and it will put it in your ubuntu dock.
+You can right click on the terminal icon and choose `Add to Favorites` and it will put it in your ubuntu dock.
 
 ![Terminal Add To Favorites](images/ubuntu-add-to-favorites.png)
 
@@ -20,7 +20,7 @@ You can right click on the terminal icon and choose Add to Favorites and it will
 
 Ubuntu comes with Firefox, which is a fine web browser, but as a working web
 developer, you'll need to test your sites in multiple web browsers.  So we'll
-install the most popular browser Google Chrome.
+install the popular web browser Google Chrome.
 
 Open Firefox and visit the [Chrome Website]
 
