@@ -10,7 +10,11 @@ So it's a good idea to launch the Ubuntu Terminal and pin it to your favorites i
 
 Start by clicking the application menu in the bottom left corner of the screen and typing "Terminal" in the search box.
 
+![Application Menu](images/ubuntu-application-menu.png)
+
 You can right click on the terminal icon and choose Add to Favorites and it will put it in your ubuntu dock.
+
+![Terminal Add To Favorites](images/ubuntu-add-to-favorites.png)
 
 ## Google Chrome
 
@@ -25,11 +29,15 @@ is selected.  Then click **Accept and Install**.
 
 The following dialog box will appear:
 
-Click Save File and Ok an the file will be downloaded to your Downloads folder.
+Click Save File, then Ok and the file will be downloaded to your Downloads folder.
 
 Open the Downloads folder using the Ubuntu file manager and double click the `google-chrome-stable_current_amd64.deb` file in there.
 
+![download folder](images/ubuntu-downloads-folder.png)
+
 This will bring up the Ubuntu installer window, from there, you can click Install, enter your password when prompted and finish the installation.
+
+![ubuntu installer](images/ubuntu-installer.png)
 
 Once this has finished you can close this window, head back to the application menu and add Chrome to your Favorites as well.
 
@@ -42,6 +50,8 @@ Installing it is similar to how we installed Chrome above:
 Just visit the [VSCode Website]
 
 And download the .deb for Debian/Ubuntu option.
+
+![vscode site](images/ubuntu-vscode-site.png)
 
 Save it to your Downloads folder and double click on it to install it.
 
