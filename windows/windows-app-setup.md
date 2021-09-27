@@ -17,7 +17,21 @@ so here's the big list of all the common ones we usually worry about.
 - [Edge] - Much maligned, Microsoft Edge isn't the Internet Explorer of yesterday, it's now built with Chromium, the same base as Google Chrome. It's also available on macOS now.
 - [Safari] - If you have a mac, you already have this. If you are on Windows, then you are out of luck.
 
-Once you've got these installed, move on to [Installing Ansible]
+## Visual Studio Code Extension
+
+You will need to launch VSCode and install an extension to get it to work correctly
+with WSL.
+
+The extension is called *Remote - WSL*.  You can navigate to the Extensions panel
+using the button on the panel on the left of VSCode.
+
+![extension button](images/vscode-extension-button.png)
+
+Then search for "Remote-WSL", find it in the list and click install.
+
+![remote WSL Install](images/Remote-WSL-Extension.png)
+
+Once you've got everything installed, move on to [Installing Ansible]
 
 [visual studio code]: https://code.visualstudio.com/
 [insomnia]: https://insomnia.rest/pricing
