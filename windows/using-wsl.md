@@ -48,7 +48,9 @@ There's a special Network Share created in Windows that lets you access WSL's fi
 
 To access it, open a Windows Explorer window, and in the location bar type the following and hit enter
 
-```\\wsl$`
+```text
+\\wsl$
+```
 
 You should see a network share called `Ubuntu`. This is the entire contents of your Linux virtual machine's filesystem.
 
