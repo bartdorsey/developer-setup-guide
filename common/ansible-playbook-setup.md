@@ -22,7 +22,7 @@ ansible-galaxy collection install community.postgresql community.general
 Now we can run the following command to run the ansible playbook.
 
 ```sh
-ansible-pull -K -U https://github.com/bartdorsey/developer-playbook.git playbook.yml
+ansible-pull -K -U https://github.com/fullstackacademy/developer-playbook.git playbook.yml
 ```
 
 The first thing the playbook does is ask you for a `BECOMES` password.  This is
