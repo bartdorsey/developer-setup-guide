@@ -31,7 +31,8 @@ software. Just type your macOS or Linux password here and press enter.
 
 Then ansible attempts to install all the software.
 
-Sit back and relax, this could take a while.
+Sit back and relax, this could take a while. On some systems it will not print
+anything out until it finishes the setup.
 
 ![ansible running](images/ansible-running.png)
 
