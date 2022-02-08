@@ -6,6 +6,38 @@ Luckily VSCode has built in support for VSCode if you install the [WSL Remote De
 
 Once you have this installed, VSCode can begin to tightly integrate with your WSL Linux virtual machine.
 
+## Understanding the relationship between Windows and WSL.
+
+One important concept to wrap your mind around is understanding how WSL and Windows work together.  Since WSL is a Virtual Machine, it has it's own networking and it's own filesystem.
+
+### Home Directories
+
+Windows has a home directory on your C: drive in the folder `\Users\<username>`.  Inside of WSL, it's accessible under the path `/mnt/c/Users/<username>`.  
+
+**VERY IMPORTANT** When you are doing development work in WSL, you *should not* use this folder to store your files.
+
+Instead you should store your development files in your Linux home directory, which is located at the path `/home/<username>`
+
+See [this part][wsl-file-storage-guide] of Microsoft's WSL documentation for more info.
+
+## Localhost
+
+Often when developing network applications (like web servers) you will need to have an application listen on an port on `localhost` (127.0.0.1)
+
+The important thing to realize is that Windows has a `localhost`, and Linux ALSO has a `localhost`. These are really separate things. However Windows attempts to notice when you start a server in WSL and it attempts to *forward* requests from the Windows localhost to the Linux localhost.
+
+This is so as you develope your application you can use your Windows web browser to connect to your application running in Linux.
+
+> As of the writing of this version of the guide, there are some bugs with this automatic forwarding system. Also VPN or Anti-virus software can sometimes confuse this auto forwarding system.  As a workaround you can connect to the actual IP address of the WSL virtual machine. To find out the IP address, run this command `ip -br addr show | grep eth0` and then replace the `localhost` in your browser with the ip address it shows.
+>
+>```shell
+> eth0             UP             172.18.250.180/20 > fe80::215:5dff:fe56:7711/64
+>```
+>
+> In this example, the IP address would be `172.18.250.180`
+
+For more information, see the [official docs for WSL Networking][wsl-networking]
+
 ## Opening folders from VSCode
 
 You will see a new status bar item in the lower left.
@@ -100,6 +132,7 @@ wsl --shutdown
 
 Then open a new Windows Terminal, the WSL machine will automatically start back up.
 
+[Shell basics]: ../common/shell-basics.md
 [WSL Remote Development]:vscode:extension/ms-vscode-remote.remote-wsl
 [VSCode Remote Status Bar Item]:https://code.visualstudio.com/assets/docs/remote/wsl-tutorial/remote-status-bar.png
 [VSCode WSL Menu]:https://code.visualstudio.com/assets/docs/remote/wsl-tutorial/remote-wsl-commands.png
@@ -109,3 +142,5 @@ Then open a new Windows Terminal, the WSL machine will automatically start back 
 [WSL-Pin-to-Quick-Access]:images/WSL-Pin-to-Quick-Access.png
 [WSL-Home-Folder-Contents]:images/WSL-Home-Folder-Contents.png
 [How to get rid of Zone Identifier Files]:https://blog.realhe.ro/how-to-get-rid-of-zone-identifier-files/
+[wsl-file-storage-guide]:https://docs.microsoft.com/en-us/windows/wsl/setup/environment#file-storage
+[wsl-networking]:https://docs.microsoft.com/en-us/windows/wsl/networking
