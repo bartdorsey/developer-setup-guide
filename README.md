@@ -3,7 +3,7 @@
 This is a guide to installing all the development tools you need to develop
 fullstack applications on macOS and Windows.
 
-There are two guides depending on operating system:
+There are multiple guides depending on operating system:
 
 - [Windows](windows/setup.md)
 - [macOS](macos/setup.md)

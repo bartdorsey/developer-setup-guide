@@ -22,7 +22,7 @@ ansible-galaxy collection install community.postgresql community.general
 Now we can run the following command to run the ansible playbook.
 
 ```sh
-ansible-pull -K -U https://github.com/bartdorsey/developer-playbook.git playbook.yml
+ansible-pull -K -U https://github.com/fullstackacademy/developer-playbook.git playbook.yml
 ```
 
 The first thing the playbook does is ask you for a `BECOMES` password.  This is
@@ -31,7 +31,8 @@ software. Just type your macOS or Linux password here and press enter.
 
 Then ansible attempts to install all the software.
 
-Sit back and relax, this could take a while.
+Sit back and relax, this could take a while. On some systems it will not print
+anything out until it finishes the setup.
 
 ![ansible running](images/ansible-running.png)
 
