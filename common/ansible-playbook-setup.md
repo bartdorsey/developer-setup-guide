@@ -59,8 +59,14 @@ You've now got all the software installed you need to be a real web developer!
 
 Once you've got this completed you can move on an read about [extra resources]
 
+<script>
+  document.getElementById('prevButton').addEventListener('click', () => {
+  history.back();
+});
+</script>
+
 <div>
-    <a id="prevButton" href="javascript:window.history.back();"><img align="left" src="../resources/Prev.png" alt="Homebrew Setup"/></a>
+    <a id="prevButton" ><img align="left" src="../resources/Prev.png" alt="Homebrew Setup"/></a>
 </div>
 
 [Visual Studio Code]:https://code.visualstudio.com/
