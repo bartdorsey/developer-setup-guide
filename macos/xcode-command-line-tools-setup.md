@@ -17,7 +17,7 @@ Once this is finished, move on to Installing Homebrew
 
 <div style="position: absolute; display: flex; width: 100%; justify-content: space-between">
     <a id="prevButton" href="setup.md"><img src="../resources/Prev.png" alt="macOS Setup"/></a>
-    <a id="nextButton" href="homebrew-setup.md"><img style="align-self: right;" src="../resources/Next.png" alt="Homebrew Setup"/></a>
+    <a id="nextButton" href="homebrew-setup.md"><img align="right" src="../resources/Next.png" alt="Homebrew Setup"/></a>
 </div>
 
 
