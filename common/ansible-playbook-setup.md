@@ -59,6 +59,10 @@ You've now got all the software installed you need to be a real web developer!
 
 Once you've got this completed you can move on an read about [extra resources]
 
+<div>
+    <a id="prevButton" href="homebrew-setup.md"><img align="left" src={window.history.back()} alt="Homebrew Setup"/></a>
+</div>
+
 [Visual Studio Code]:https://code.visualstudio.com/
 [extra resources]:extra-resources.md
 [starship]:https://starship.rs

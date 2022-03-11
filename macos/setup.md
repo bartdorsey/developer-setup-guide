@@ -33,7 +33,9 @@ represents your home directory.
 
 Once you've read about all the Unix terminology and have the terminal app open, move on to Installing Xcode Command line tools
 
-[![Installing Xcode Command line tools](../resources/Next.png)](xcode-command-line-tools-setup.md) 
+<div>
+    <a id="nextButton" href="xcode-command-line-tools-setup.md"><img align="right" src="../resources/Next.png" alt="XCode Tool Setup"/></a>
+</div>
 
 [shell]:https://en.wikipedia.org/wiki/Shell_%28computing%29
 [Ansible]:https://ansible.com
