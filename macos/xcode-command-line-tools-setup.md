@@ -14,6 +14,7 @@ This should trigger a dialog box to appear asking if you want to install the
 command line tools, click Ok and wait for the tools to finish installing.
 
 Once this is finished, move on to Installing Homebrew
+
 <style>
 .container{
     display: flex;
