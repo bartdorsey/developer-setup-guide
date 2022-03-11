@@ -13,8 +13,18 @@ xcode-select --install
 This should trigger a dialog box to appear asking if you want to install the
 command line tools, click Ok and wait for the tools to finish installing.
 
-Once this is finished, move on to [Installing homebrew]
+Once this is finished, move on to Installing Homebrew
+<style>
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+</style>
+<div class="container">
+    <a id="prevButton" href="setup.md"><img src="../resources/Prev.png" alt="macOS Setup"/></a>
+    <a id="nextButton" href="homebrew-setup.md"><img src="../resources/Next.png" alt="Homebrew Setup"/></a>
+</div>
 
-[Installing homebrew]:homebrew-setup.md
+
 [Xcode]:https://developer.apple.com/xcode/
 [Xcode command line tools]:https://developer.apple.com/library/archive/technotes/tn2339/_index.html#//apple_ref/doc/uid/DTS40014588-CH1-WHAT_IS_THE_COMMAND_LINE_TOOLS_PACKAGE_

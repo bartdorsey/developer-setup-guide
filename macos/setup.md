@@ -31,7 +31,9 @@ represents your home directory.
 > Once you finish these instructions you will have zsh no matter which version
 > of macOS you have.
 
-Once you've read about all the Unix terminology and have the terminal app open, move on to [Installing Xcode Command line tools]
+Once you've read about all the Unix terminology and have the terminal app open, move on to Installing Xcode Command line tools
+
+[![Installing Xcode Command line tools](../resources/Next.png)](xcode-command-line-tools-setup.md) 
 
 [shell]:https://en.wikipedia.org/wiki/Shell_%28computing%29
 [Ansible]:https://ansible.com
@@ -40,4 +42,4 @@ Once you've read about all the Unix terminology and have the terminal app open, 
 [bash]:https://www.gnu.org/software/bash/
 [Z Shell]:https://www.zsh.org/
 [zsh]:https://www.zsh.org/
-[Installing Xcode Command line tools]:xcode-command-line-tools-setup.md
+
