@@ -15,13 +15,7 @@ command line tools, click Ok and wait for the tools to finish installing.
 
 Once this is finished, move on to Installing Homebrew
 
-<style>
-.container{
-    display: flex;
-    justify-content: space-between;
-}
-</style>
-<div class="container">
+<div style="display: flex; justify-content: space-between">
     <a id="prevButton" href="setup.md"><img src="../resources/Prev.png" alt="macOS Setup"/></a>
     <a id="nextButton" href="homebrew-setup.md"><img src="../resources/Next.png" alt="Homebrew Setup"/></a>
 </div>
