@@ -16,7 +16,12 @@ Homebrew will then start cloning it's files to your hard drive. Once it's instal
 Homebrew will prompt you for your password, just type in your macOS password here and press enter.
 (The terminal doesn't print out anything when you type a password in, but is it taking your password nonetheless)
 
-Once this is finished, move on to [Installing Ansible]
+Once this is finished, move on to Installing Ansible.
 
-[Installing Ansible]:ansible-setup.md
+<div>
+    <a id="prevButton" href="xcode-command-line-tools-setup.md"><img align="left" src="../resources/Prev.png" alt="XCode Tool Setup"/></a>
+    <a id="nextButton" href="ansible-setup.md"><img align="right" src="../resources/Next.png" alt="Ansible Setup"/></a>
+</div>
+
+
 [Homebrew]:https://brew.sh

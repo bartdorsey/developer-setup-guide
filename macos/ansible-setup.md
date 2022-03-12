@@ -39,9 +39,13 @@ Run this command at the shell prompt.
 brew install ansible
 ```
 
-Once it has successfully installed, your shell prompt should reappear and you can move on to [Running the Ansible Playbook]
+Once it has successfully installed, your shell prompt should reappear and you can move on to Running the Ansible Playbook
 
-[Running the Ansible Playbook]:../common/ansible-playbook-setup.md
+<div>
+    <a id="prevButton" href="homebrew-setup.md"><img align="left" src="../resources/Prev.png" alt="Homebrew Setup"/></a>
+    <a id="nextButton" href="../common/ansible-playbook-setup.md"><img align="right" src="../resources/Next.png" alt="Run Ansible"/></a>
+</div>
+
 [Ansible]:https://ansible.com
 [Visual Studio Code]:https://code.visualstudio.com/
 [Postico]:https://eggerapps.at/postico/
